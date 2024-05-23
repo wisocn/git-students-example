@@ -1,0 +1,7 @@
+1. docker pull nginx
+2. docker run --name my-nginx -p 80:80 -d nginx
+3. git clone https://github.com/wisocn/git-students-example.git
+4. cd git-students-example
+5. cd matej_gyergyek
+6. git add docker_matej.txt
+7.got commit -m "docker commit"
