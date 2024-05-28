@@ -1,6 +1,11 @@
-let number1 = 5;
-let number2 = 10;
+number1 = 5
+number2 = 10;
 
-let sum = number1 + number2;
+function sestevanje(number1, number2)
+{
+	return number1 + number2;
+}
 
-console.log("Sum od", number1, "in", number2, "je", sum);
+
+
+console.log(sestevanje(number1, number2);
